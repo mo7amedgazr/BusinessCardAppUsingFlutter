@@ -2,6 +2,11 @@
 
 A new Flutter application.
 
+
+![Alt text](https://github.com/mo7amedgazr/BusinessCardAppUsingFlutter/screenshoot/Simulator Screen Shot - iPhone SE (2nd generation) - 2020-06-04 at 17.56.48.png.jpg "Screen Shoot")
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
