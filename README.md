@@ -1,4 +1,4 @@
-# card
+# BusinessCard App
 
 Flutter App that displays your business card including profile image , name , title , email and phone.
 
