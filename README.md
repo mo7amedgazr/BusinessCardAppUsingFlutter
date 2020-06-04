@@ -3,7 +3,7 @@
 A new Flutter application.
 
 
-![Alt text](https://github.com/mo7amedgazr/BusinessCardAppUsingFlutter/screenshoot/screenshoot1.png "Screen Shoot")
+![ScreenShot](https://github.com/mo7amedgazr/BusinessCardAppUsingFlutter/screenshoot/screenshoot1.png "Screen Shoot")
 
 
 
